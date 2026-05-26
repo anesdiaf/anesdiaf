@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anesdiaf;
-- 👀 I’m interested in .NET, WPF, SQL, Typescript, NextJS, Laravel;
-- 📚 I'm Learning Laravel;
-- 🤝 I’m looking to collaborate on NextJS projects;
+- 👀 I’m interested in C/C++,.NET, WinUI3, SQL, Typescript, NextJS;
+- 📚 I'm Learning Raylib;
+- 🤝 I’m looking to collaborate on Raylib projects;
 - 📫 you can contact me @anesdiaf @twitter;
 
 
